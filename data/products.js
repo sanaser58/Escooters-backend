@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'GXL V2 COMMUTER SCOOTER',
     image: '/images/GXLV2.jpg',
     description:
@@ -12,7 +11,6 @@ const products = [
     maxSpeed: 15.5,
   },
   {
-    _id: '2',
     name: 'XR ULTRA FOLDING ELECTRIC SCOOTER',
     image: '/images/XRULTRA.jpg',
     description:
@@ -24,7 +22,6 @@ const products = [
     maxSpeed: 18.5,
   },
   {
-    _id: '3',
     name: 'Ninebot KickScooter MAX',
     image: '/images/Ninebotmax.jpg',
     description:
@@ -36,7 +33,6 @@ const products = [
     maxSpeed: 19.6,
   },
   {
-    _id: '4',
     name: 'Ninebot KickScooter by Segway ES4',
     image: '/images/segwayes4.jpg',
     description:
@@ -48,7 +44,6 @@ const products = [
     maxSpeed: 19.3,
   },
   {
-    _id: '5',
     name: 'APEX FOLDING ELECTRIC SCOOTER',
     image: '/images/Apex.jpg',
     description:
@@ -60,7 +55,6 @@ const products = [
     maxSpeed: 15.5,
   },
   {
-    _id: '6',
     name: 'GXL COMMUTER SCOOTER',
     image: '/images/Gxl.jpg',
     description:
@@ -72,7 +66,6 @@ const products = [
     maxSpeed: 15.3,
   },
   {
-    _id: '7',
     name: 'JTB CUSTOM MODEL ONE',
     image: '/images/Jtb.jpg',
     description:
@@ -84,7 +77,6 @@ const products = [
     maxSpeed: 15.3,
   },
   {
-    _id: '8',
     name: 'Hiboy MAX Electric Scooter',
     image: '/images/Hiboymax.jpg',
     description:
